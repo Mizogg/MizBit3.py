@@ -21,19 +21,15 @@ mizbit2.py mizbit3.py mizbit4.py and Many More
 
 # mizbit2.py Random Bitcoin Legacy compressed/uncompresses address.
 
-Download mizbit2.py  (https://mizogg.co.uk/Uploads/mizbit2.py)
 
 # mizbit3.py Random Bitcoin Legacy compressed/uncompresses address and Segwit address.
 
-Download mizbit3.py  (https://mizogg.co.uk/Uploads/mizbit3.py)
 
 # mizbit4.py Random Bitcoin Legacy compressed/uncompresses, Segwit and MultiSig address.
 
-Download mizbit4.py  (https://mizogg.co.uk/Uploads/mizbit4.py)
 
 # mizbit.py SIMPLE AND FAST  (Nocolours Less Libraries) Random Bitcoin Legacy compressed/uncompresses address and Segwit address.
 
-Download mizbit.py (https://mizogg.co.uk/Uploads/mizbit.py)
 
 https://mizogg.co.uk/advanced-python-programs/
 ![image](https://user-images.githubusercontent.com/88630056/128644014-bb3e8199-1252-44a7-acde-e192509f7e5e.png)
