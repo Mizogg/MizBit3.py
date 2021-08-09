@@ -14,6 +14,8 @@ pip3 install bit
 pip3 install colorama
 pip3 install urllib3
 
+Mizbit3(old).py Pick you CPU and Range before Start.
+![image](https://user-images.githubusercontent.com/88630056/128741025-0cd39472-d2bc-45e1-8d55-828b435d1f94.png)
 
 Older versions https://mizogg.co.uk/python-bitcoin-balance/
 
