@@ -1,4 +1,4 @@
-# MizBit3.py
+# ✨✨✨MizBit3.py✨✨✨
 Random Bitcoin Legacy compressed/uncompresses address and Segwit address. Check for Total Received Ammount Using blockchain.info API
 Full Information While Scan running: Count, Total Scan, Privatekey HEX/DEC WIF  
 
@@ -11,30 +11,39 @@ https://user-images.githubusercontent.com/88630056/128643865-a616837a-9ee8-4a1c-
 Made to run in Python :
 
 pip3 install bit
+
 pip3 install colorama
+
 pip3 install urllib3
 
 Mizbit3(old).py Pick you CPU and Range before Start.
+
 ![image](https://user-images.githubusercontent.com/88630056/128741025-0cd39472-d2bc-45e1-8d55-828b435d1f94.png)
 
-Older versions https://mizogg.co.uk/python-bitcoin-balance/
+# ✨✨✨mizbit5.py & mizbit5plain.py (No Colours)✨✨✨
 
-mizbit2.py mizbit3.py mizbit4.py and Many More
+Random Bitcoin Legacy compressed/uncompresses address and Segwit address. BTC/ETH/BNB Check for Transactions/Balance/Received Ammount Using blockchain.info, ethplorer.io and bscscan.com API
 
-# mizbit2.py Random Bitcoin Legacy compressed/uncompresses address.
+![image](https://user-images.githubusercontent.com/88630056/129409004-e35670d8-a2e4-4e97-bd4b-07b3f20c0d6b.png)
+
+# ✨✨✨mizbit2.py mizbit3.py mizbit4.py and Many More✨✨
+
+✨✨Older versions can be found on mizogg.co.uk https://mizogg.co.uk/python-bitcoin-balance/ ✨✨
+
+✨mizbit2.py Random Bitcoin Legacy compressed/uncompresses address.
 
 
-# mizbit3.py Random Bitcoin Legacy compressed/uncompresses address and Segwit address.
+✨mizbit3.py Random Bitcoin Legacy compressed/uncompresses address and Segwit address.
 
 
-# mizbit4.py Random Bitcoin Legacy compressed/uncompresses, Segwit and MultiSig address.
+✨mizbit4.py Random Bitcoin Legacy compressed/uncompresses, Segwit and MultiSig address.
 
 
-# mizbit.py SIMPLE AND FAST  (Nocolours Less Libraries) Random Bitcoin Legacy compressed/uncompresses address and Segwit address.
+✨mizbit.py SIMPLE AND FAST  (Nocolours Less Libraries) Random Bitcoin Legacy compressed/uncompresses address and Segwit address.
 
 
 https://mizogg.co.uk/advanced-python-programs/
 ![image](https://user-images.githubusercontent.com/88630056/128644014-bb3e8199-1252-44a7-acde-e192509f7e5e.png)
 
 # Good Luck and Happy Hunting. Made by mizogg.co.uk
-# Donations 3M6L77jC3jNejsd5ZU1CVpUVngrhanb6cD
+Donations 3M6L77jC3jNejsd5ZU1CVpUVngrhanb6cD
