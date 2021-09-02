@@ -1,0 +1,16 @@
+Must edit Lines 8&9 Your sending email and password
+
+Необходимо отредактировать строки 8 и 9 Ваш адрес электронной почты и пароль для отправки.
+
+gmail_user = 'youremail@gmail.com'
+gmail_password = 'yourpassword'
+
+
+Must Edit Line 84 Receiving Email Address
+
+Необходимо изменить строку 84 Получение адреса электронной почты
+
+to = ['youremail@gmail.com']
+
+Use install.bat to install libraries
+Используйте install.bat для установки библиотек
