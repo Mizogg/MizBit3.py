@@ -1,3 +1,14 @@
+# ✨✨✨New MizBitoff.py & MizBitoffSEQ.py✨✨✨
+
+Random and Sequential Scan for Bitcoin from your own database/list of addresses.
+
+Legacy compressed/uncompresses, Segwit and MultiSegwit address. Rich Colour and Display. Full Report when found. Saves TEXT file (winner.txt) with all imformation required to restore your found wallet. Beep notification sound when found. Also send to email feature so can be run from many locations and report to email so no need to check the computers.
+
+Best run under windows CMD (command prompt)
+![image](https://user-images.githubusercontent.com/88630056/131904514-4cf99b78-b5d2-43df-aa27-cf48a520b5c4.png)
+
+
+
 # ✨✨✨MizBit3.py✨✨✨
 Random Bitcoin Legacy compressed/uncompresses address and Segwit address. Check for Total Received Ammount Using blockchain.info API
 Full Information While Scan running: Count, Total Scan, Privatekey HEX/DEC WIF  
