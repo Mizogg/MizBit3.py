@@ -1,3 +1,9 @@
+# ✨✨✨New 256BIT.py Offline Scan 256 Biction Addresses Check ✨✨✨
+
+![image](https://user-images.githubusercontent.com/88630056/142766194-44e68d20-63bf-4fec-96ca-b1b9d4ed6142.png)
+Simple and Fast
+
+
 # ✨✨✨New MizBitoff.py & MizBitoffSEQ.py✨✨✨
 
 Random and Sequential Scan for Bitcoin from your own database/list of addresses.
