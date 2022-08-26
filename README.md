@@ -63,4 +63,4 @@ https://mizogg.co.uk/advanced-python-programs/
 ![image](https://user-images.githubusercontent.com/88630056/128644014-bb3e8199-1252-44a7-acde-e192509f7e5e.png)
 
 # Good Luck and Happy Hunting. Made by mizogg.co.uk
-Donations 3M6L77jC3jNejsd5ZU1CVpUVngrhanb6cD
+Donations 3JKyVkRtxDrXEMtZY6Fy53VmvMAT6LKBo8
